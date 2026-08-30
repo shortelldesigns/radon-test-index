@@ -12,7 +12,7 @@ Publish: GitHub Settings, Pages, Deploy from a branch, root or docs folder. Keep
 
 Relative links work on a project-pages subpath. Optional: use a gh-pages branch as the Pages source.
 
-No custom domain is required. Do not add affiliate or checkout links.
+No custom domain is required. DIY kit links on how-to-test.html may use Amazon Associates disclosure; professional lists have no paid placement.
 
 ## What is in here
 
@@ -27,6 +27,7 @@ No custom domain is required. Do not add affiliate or checkout links.
 | nd.html | North Dakota directory |
 | co.html | Colorado directory |
 | il.html | Illinois directory |
+| ny.html | New York directory |
 | about.html | Independent index, verification, sources |
 | css/style.css | Layout and type |
 
