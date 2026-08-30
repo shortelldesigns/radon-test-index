@@ -23,6 +23,10 @@ No custom domain is required. Do not add affiliate or checkout links.
 | ia.html | Iowa directory |
 | pa.html | Pennsylvania directory |
 | oh.html | Ohio directory (partial) |
+| mn.html | Minnesota directory |
+| nd.html | North Dakota directory |
+| co.html | Colorado directory |
+| il.html | Illinois directory |
 | about.html | Independent index, verification, sources |
 | css/style.css | Layout and type |
 

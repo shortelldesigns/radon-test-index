@@ -184,10 +184,15 @@ p {
 }
 @media (min-width: 640px) {
   .grid.states {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   .grid.two {
     grid-template-columns: 1fr 1fr;
+  }
+}
+@media (min-width: 960px) {
+  .grid.states {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 .card {
