@@ -502,3 +502,116 @@ table.dir tbody tr:hover {
     color: inherit;
   }
 }
+
+
+/* === Trust / conversion pass (append) =====================================
+   No webfonts, no photos, no Amazon chrome. Method-first kit cards.
+   ======================================================================== */
+
+nav a {
+  min-height: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Homepage: two jobs, stated before the roster. Not a storefront. */
+.paths {
+  display: grid;
+  gap: 0.65rem;
+  margin: 1.15rem 0 1.6rem;
+}
+@media (min-width: 640px) {
+  .paths {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.paths-label {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--muted);
+}
+a.path {
+  display: block;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--pine);
+  padding: 0.85rem 1rem;
+  text-decoration: none;
+  color: inherit;
+  min-height: 2.75rem;
+}
+a.path:hover,
+a.path:focus {
+  border-color: var(--pine);
+  color: inherit;
+}
+a.path strong {
+  display: block;
+  color: var(--pine-2);
+  font-size: 1.02rem;
+}
+a.path span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 400;
+  margin-top: 0.15rem;
+}
+
+.card-howto {
+  border-top: 3px solid var(--pine);
+}
+.card-howto h2 {
+  font-size: 1.2rem;
+}
+
+/* How-to page: two methods, then a quiet paid link. Not a shop. */
+.kit-block {
+  margin: 1.25rem 0 1.6rem;
+  padding: 1rem 0 0.25rem;
+  border-top: 1px solid var(--line);
+}
+.kit-lead {
+  max-width: 40rem;
+}
+.kits {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0.85rem 0 1rem;
+}
+@media (min-width: 640px) {
+  .kits { grid-template-columns: 1fr 1fr; }
+}
+.kit {
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  padding: 0.95rem 1rem 1.05rem;
+}
+.kit h3 {
+  margin: 0.15rem 0 0.4rem;
+  font-family: Georgia, "Iowan Old Style", Palatino, serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+.kit p:last-child { margin-bottom: 0; }
+a.kit-link {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  min-height: 2.75rem;
+  padding: 0.35rem 0;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+.paid {
+  font-weight: 500;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.88em;
+}
