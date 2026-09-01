@@ -28,6 +28,7 @@ No custom domain is required. DIY kit links on how-to-test.html may use Amazon A
 | co.html | Colorado directory |
 | il.html | Illinois directory |
 | ny.html | New York directory |
+| ks.html | Kansas directory |
 | about.html | Independent index, verification, sources |
 | css/style.css | Layout and type |
 
