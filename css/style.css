@@ -627,6 +627,13 @@ a.kit-link {
 .fold-cta .kicker {
   margin: 0 0 0.5rem;
 }
+.fold-cta .pick-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.35rem;
+}
 .fold-cta .pick-note {
   margin: 0.65rem 0 0;
   font-size: 0.88rem;
@@ -654,4 +661,13 @@ a.kit-link {
   color: var(--navy, #123048) !important;
   border: 2px solid var(--navy, #123048);
   margin-top: 0.35rem;
+}
+
+@media (max-width: 639px) {
+  .brand-sub { display: none; }
+  .site-header nav[aria-label="Primary"] {
+    max-height: 4.5rem;
+    overflow: auto;
+  }
+  .fold-cta .kit-link { min-height: 2.4rem; padding: 0.4rem 0.7rem; font-size: 0.92rem; }
 }
