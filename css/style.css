@@ -615,3 +615,43 @@ a.kit-link {
   color: var(--muted);
   font-size: 0.88em;
 }
+
+/* How-to fold CTAs: kit steps vs certified tester (no phone lead-gen) */
+.fold-cta {
+  margin: 0 0 1.4rem;
+  padding: 1rem 1rem 1.05rem;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+}
+.fold-cta .kicker {
+  margin: 0 0 0.5rem;
+}
+.fold-cta .pick-note {
+  margin: 0.65rem 0 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+.fold-cta .kit-link,
+.fold-cta a.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.55rem 0.85rem;
+  box-sizing: border-box;
+  background: var(--forest, #1e4d3a);
+  color: #f6f3ea !important;
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  text-align: center;
+  line-height: 1.25;
+}
+.fold-cta a.btn-secondary {
+  background: transparent;
+  color: var(--navy, #123048) !important;
+  border: 2px solid var(--navy, #123048);
+  margin-top: 0.35rem;
+}
