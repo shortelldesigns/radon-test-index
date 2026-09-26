@@ -1,0 +1,668 @@
+{
+  "retrieved": "2026-09-25",
+  "timezone": "US/Pacific",
+  "sources": {
+    "measurement": "https://www.oregon.gov/oha/ph/HealthyEnvironments/HealthyNeighborhoods/RadonGas/Pages/measurement.aspx",
+    "mitigation": "https://www.oregon.gov/oha/PH/HEALTHYENVIRONMENTS/HEALTHYNEIGHBORHOODS/RADONGAS/Pages/mitigation.aspx"
+  },
+  "measurement_count": 36,
+  "mitigation_count": 12,
+  "measurement": [
+    {
+      "company": "3R's Construction",
+      "contacts": "Duane West",
+      "phones": [
+        "(503) 363-1059"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.3rsconstruction.com"
+      ],
+      "city": "Salem",
+      "kind": "measurement"
+    },
+    {
+      "company": "Absolute Environmental",
+      "contacts": "Michael Stipan",
+      "phones": [
+        "(503) 878-9828"
+      ],
+      "emails": [
+        "Info@absoluteenvironment.com"
+      ],
+      "websites": [
+        "https://www.absenviron.com",
+        "http://www.absenviron.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Alpha Environmental Services, Inc.",
+      "contacts": "Richard A Cason",
+      "phones": [
+        "(503) 292-5346"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.alphaenvironmental.net"
+      ],
+      "city": "Beaverton",
+      "kind": "measurement"
+    },
+    {
+      "company": "Atlas Technical Consultants, LLC",
+      "contacts": "Danielle Cook",
+      "phones": [
+        "(971) 319-6950"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.oneatlas.com",
+        "http://www.oneatlas.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "BriteBox Labs",
+      "contacts": "Orlando Baza",
+      "phones": [
+        "(541) 299-2008"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.briteboxlabs.com",
+        "http://www.briteboxlabs.com"
+      ],
+      "city": "Bend",
+      "kind": "measurement"
+    },
+    {
+      "company": "Cascade Environmental Solutions",
+      "contacts": "Latima Clark, Jennifer Levy",
+      "phones": [
+        "(971) 225-2567"
+      ],
+      "emails": [
+        "lclark@cascade-environmental.com"
+      ],
+      "websites": [],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Cascade Radon, Inc.",
+      "contacts": "Felicia Flanders",
+      "phones": [
+        "(971) 303-2003"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.cascaderadon.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Diligence Inspections",
+      "contacts": "Ryan Horton",
+      "phones": [],
+      "emails": [
+        "ryan@diligenceinspections.com"
+      ],
+      "websites": [
+        "https://diligenceinspections.com",
+        "http://www.diligenceinspections.com"
+      ],
+      "city": "Milwaukie",
+      "kind": "measurement"
+    },
+    {
+      "company": "EAECo. LLC",
+      "contacts": "Daniel Stallings",
+      "phones": [
+        "(503) 980-4148"
+      ],
+      "emails": [
+        "dan.stallings@outlook.com"
+      ],
+      "websites": [],
+      "city": "Sherwood",
+      "kind": "measurement"
+    },
+    {
+      "company": "Environmental Works",
+      "contacts": "",
+      "phones": [
+        "(503) 676-7812"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.eworksnw.com"
+      ],
+      "city": "Beaverton / Fairview",
+      "kind": "measurement"
+    },
+    {
+      "company": "Evren Northwest, Inc.",
+      "contacts": "Dan Sajko, Victoria Bennett, Lynn Green, Isabel Garcia",
+      "phones": [
+        "(503) 452-5561"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.evren-nw.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Four Walls Inc.",
+      "contacts": "Jan-Michael Barlow, Andrew Manla",
+      "phones": [
+        "(503) 575-5496"
+      ],
+      "emails": [
+        "jan@fourwallsinc.com",
+        "andy@fourwallsinc.com"
+      ],
+      "websites": [],
+      "city": "Sheridan",
+      "kind": "measurement"
+    },
+    {
+      "company": "Green Door Home Services",
+      "contacts": "",
+      "phones": [
+        "(512) 426-8336"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.greendoorhomeservices.com",
+        "http://www.greendoorhomeservices.com"
+      ],
+      "city": "Hood River",
+      "kind": "measurement"
+    },
+    {
+      "company": "HouseGeek Home Inspection",
+      "contacts": "Jeff Strang",
+      "phones": [
+        "(503) 752-9494"
+      ],
+      "emails": [],
+      "websites": [],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Inspections Unlimited Schultens LLC",
+      "contacts": "Nathan Schultens",
+      "phones": [
+        "(503) 581-4930"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.inspectionsunlimited.com/home",
+        "http://www.inspectionsunlimited.com"
+      ],
+      "city": "Salem",
+      "kind": "measurement"
+    },
+    {
+      "company": "John's Waterproofing",
+      "contacts": "Colton Barber, Matthew Shutt",
+      "phones": [
+        "(844) 261-9012"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.johnswaterproofing.com",
+        "http://www.johnswaterproofing.com"
+      ],
+      "city": "Silverton",
+      "kind": "measurement"
+    },
+    {
+      "company": "Justice Property Inspections",
+      "contacts": "Greg Justice",
+      "phones": [
+        "(888) 414-4107"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.justicepropertyinspections.com/%22",
+        "http://www.justicepropertyinspections.com"
+      ],
+      "city": "Rainier",
+      "kind": "measurement"
+    },
+    {
+      "company": "JustRadon.Com",
+      "contacts": "Lawrence Belland, Eric Holm",
+      "phones": [
+        "(503) 740-7737"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.justradon.com"
+      ],
+      "city": "Lake Oswego",
+      "kind": "measurement"
+    },
+    {
+      "company": "MCC Inspections",
+      "contacts": "Michael Cortes",
+      "phones": [
+        "(503) 851-4111"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.mccinspections.com"
+      ],
+      "city": "Beaverton",
+      "kind": "measurement"
+    },
+    {
+      "company": "Northwest Inspection Services",
+      "contacts": "Alex Schiedler",
+      "phones": [
+        "(503) 757-4442"
+      ],
+      "emails": [
+        "alex.schiedler@npiinspect.com"
+      ],
+      "websites": [
+        "https://npiweb.com/pdxmetro",
+        "http://www.npiweb.com/pdxmetro"
+      ],
+      "city": "Tigard",
+      "kind": "measurement"
+    },
+    {
+      "company": "NOVA Group, GBC",
+      "contacts": "Jessica Oxford",
+      "phones": [
+        "(801) 358-6912"
+      ],
+      "emails": [
+        "jessica.oxford@novagrougbc.com"
+      ],
+      "websites": [
+        "https://www.novagroupgbc.com/health-safety",
+        "http://www.novagroupgbc.com/health-safety"
+      ],
+      "city": "Troutdale",
+      "kind": "measurement"
+    },
+    {
+      "company": "Oregon Health Homes, LLC",
+      "contacts": "Jacob Hardin",
+      "phones": [
+        "(971) 570-9097"
+      ],
+      "emails": [
+        "info@oregonhealthyhomes.com"
+      ],
+      "websites": [
+        "https://www.oregonhealthyhomes.com",
+        "http://www.oregonhealthyhomes.com"
+      ],
+      "city": "Aloha",
+      "kind": "measurement"
+    },
+    {
+      "company": "PBS Engineering and Environmental Inc.",
+      "contacts": "Kennedy Potts",
+      "phones": [
+        "(541) 686-8684"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.pbsenv.com"
+      ],
+      "city": "Eugene",
+      "kind": "measurement"
+    },
+    {
+      "company": "Performance Insulation & Energy Services",
+      "contacts": "Sean Siemienczuk",
+      "phones": [
+        "(503) 598-8001"
+      ],
+      "emails": [
+        "seans@performinsulation.com"
+      ],
+      "websites": [
+        "https://www.performanceinsulation.com",
+        "http://www.performanceinsulation.com"
+      ],
+      "city": "Sherwood, Redmond",
+      "kind": "measurement"
+    },
+    {
+      "company": "Radon Ranger",
+      "contacts": "Dylan Hay-Chapman",
+      "phones": [
+        "(818) 679-4046"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.radon-ranger.com"
+      ],
+      "city": "Redmond",
+      "kind": "measurement"
+    },
+    {
+      "company": "Redline Environmental LLC",
+      "contacts": "Cheryl Rice, Patrick Oliver",
+      "phones": [
+        "(503) 832-8300"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.redlinefastpdx.com",
+        "http://www.redlinefastpdx.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Ricks Inspection Services Enterprise, LLC",
+      "contacts": "Ricardo Regalado",
+      "phones": [
+        "(971) 237-2922"
+      ],
+      "emails": [
+        "rick@riseoforegon.com"
+      ],
+      "websites": [],
+      "city": "Yamhill",
+      "kind": "measurement"
+    },
+    {
+      "company": "Room by Room Home Inspection Services LLC",
+      "contacts": "Daniel Doty",
+      "phones": [
+        "(971) 393-7739"
+      ],
+      "emails": [
+        "dandoty@rbrinspectionservices.com"
+      ],
+      "websites": [
+        "https://www.rbrinspections.com",
+        "http://www.rbrinspections.com"
+      ],
+      "city": "Beaverton",
+      "kind": "measurement"
+    },
+    {
+      "company": "Rose City Laboratories, LLC",
+      "contacts": "Nicholas Buffington",
+      "phones": [],
+      "emails": [],
+      "websites": [
+        "http://www.rosecitylabs.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Sneak Peek Home Inspections, LLC",
+      "contacts": "Matthew Barker",
+      "phones": [
+        "(541) 508-9057"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.sneakpeekoregon.com",
+        "http://www.sneakpeekoregon.com"
+      ],
+      "city": "Bend",
+      "kind": "measurement"
+    },
+    {
+      "company": "Soil Solutions Environmental Services, Inc.",
+      "contacts": "Neal Correy",
+      "phones": [
+        "(503) 234-2118"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.soilsolutionsenvironmental.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Speedy Inspections",
+      "contacts": "Steven Beatty, Matthew Beatty",
+      "phones": [
+        "(503) 882-2104"
+      ],
+      "emails": [],
+      "websites": [
+        "https://thespeedyteam.com",
+        "http://www.thespeedyteam.com"
+      ],
+      "city": "Clackamas",
+      "kind": "measurement"
+    },
+    {
+      "company": "Status Inspections",
+      "contacts": "Charles Kent",
+      "phones": [
+        "(503) 508-3373"
+      ],
+      "emails": [
+        "charlie@statusinspectionsinc.com"
+      ],
+      "websites": [],
+      "city": "Gresham",
+      "kind": "measurement"
+    },
+    {
+      "company": "T2 Home Services",
+      "contacts": "Mark Townsend",
+      "phones": [
+        "(541) 969-7640"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.t2homeservices.com",
+        "http://www.t2homeservices.com"
+      ],
+      "city": "Pendleton",
+      "kind": "measurement"
+    },
+    {
+      "company": "TRC Environmental Corporation",
+      "contacts": "Chloe Hudson, Matthew Cuda",
+      "phones": [
+        "(971) 275-3719",
+        "(503) 880-0126"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.trccompanies.com",
+        "http://www.trccompanies.com"
+      ],
+      "city": "Portland",
+      "kind": "measurement"
+    },
+    {
+      "company": "Willamette Radon, LLC",
+      "contacts": "George Croff",
+      "phones": [
+        "(503) 989-9992"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.willametteradon.com"
+      ],
+      "city": "Wilsonville",
+      "kind": "measurement"
+    }
+  ],
+  "mitigation": [
+    {
+      "company": "3R's Construction",
+      "contacts": "Duane West",
+      "phones": [
+        "(503) 363-1059"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.3rsconstruction.com"
+      ],
+      "city": "Salem",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Absolute Environmental",
+      "contacts": "Michael Stipan",
+      "phones": [
+        "(503) 878-9828"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.absenviron.com",
+        "http://www.absenviron.com"
+      ],
+      "city": "Portland",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Alpha Environmental Services, Inc.",
+      "contacts": "Richard Cason",
+      "phones": [
+        "(503) 292-5346"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.alphaenvironmental.net"
+      ],
+      "city": "Beaverton",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Cascade Radon, Inc.",
+      "contacts": "Wade Gervais",
+      "phones": [
+        "(503) 964-0818"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.cascaderadon.com"
+      ],
+      "city": "Molalla",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Environmental Works LLC",
+      "contacts": "Devlin McAllister",
+      "phones": [],
+      "emails": [
+        "devlin@eworksnw.com"
+      ],
+      "websites": [
+        "http://www.eworksnw.com"
+      ],
+      "city": "Fairview",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Evren Northwest, Inc.",
+      "contacts": "Lynn Green, Dan Sajko",
+      "phones": [
+        "(503) 452-5561"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.evren-nw.com"
+      ],
+      "city": "Portland",
+      "kind": "mitigation"
+    },
+    {
+      "company": "JustRadon.Com",
+      "contacts": "Jonathan Miranda, Eric Holm, Lawrence Belland",
+      "phones": [
+        "(503) 770-5963",
+        "(503) 987-8776",
+        "(503) 740-7737"
+      ],
+      "emails": [],
+      "websites": [
+        "http://www.justradon.com"
+      ],
+      "city": "Lake Oswego / Portland / Saint Helens",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Oregon Healthy Homes, LLC",
+      "contacts": "Jacob Hardin",
+      "phones": [
+        "(971) 570-9097"
+      ],
+      "emails": [
+        "info@oregonhealthyhomes.com"
+      ],
+      "websites": [],
+      "city": "Portland Metro",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Radon Testing & Mitigation PNW LLC",
+      "contacts": "Joshua McPherson",
+      "phones": [
+        "(360) 747-1749"
+      ],
+      "emails": [],
+      "websites": [],
+      "city": "Portland",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Soil Solutions Environmental Services",
+      "contacts": "Neal Correy",
+      "phones": [
+        "(503) 234-2118"
+      ],
+      "emails": [],
+      "websites": [
+        "https://www.soilsolutionsenvironmental.com",
+        "http://www.soilsolutionsenvironmental.com"
+      ],
+      "city": "Portland",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Speedy Inspections LLC",
+      "contacts": "Steven Beatty",
+      "phones": [
+        "(503) 882-2104"
+      ],
+      "emails": [
+        "thespeedyteam@gmail.com"
+      ],
+      "websites": [],
+      "city": "Clackamas",
+      "kind": "mitigation"
+    },
+    {
+      "company": "Xavier Environmental, Inc.",
+      "contacts": "Mark Norbury",
+      "phones": [
+        "(503) 236-3796"
+      ],
+      "emails": [
+        "xavierenv@gmail.com"
+      ],
+      "websites": [],
+      "city": "Portland",
+      "kind": "mitigation"
+    }
+  ]
+}
