@@ -1,0 +1,635 @@
+{
+  "retrieved": "2026-09-26",
+  "timezone": "US/Pacific",
+  "sources": {
+    "measurement": "https://extension.unr.edu/radon/certified-radon-testers.aspx",
+    "mitigation": "https://extension.unr.edu/radon/contractors.aspx",
+    "program_hub": "https://extension.unr.edu/radon/default.aspx",
+    "map": "https://extension.unr.edu/radon/neavda-potential-radon-map.aspx"
+  },
+  "counts": {
+    "measurement": 25,
+    "measurement_northern": 19,
+    "measurement_southern": 6,
+    "mitigation": 7,
+    "mitigation_northern": 5,
+    "mitigation_southern": 2
+  },
+  "measurement": [
+    {
+      "kind": "measurement",
+      "credentials": "David Kahan\nNRPP ID: RT-111379\nExpiration: 12/31/26",
+      "company": "Accurate Radon Testing",
+      "company_web": "https://www.accradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 250-2302",
+          "tel": "17752502302"
+        }
+      ],
+      "emails": [
+        "David@accradon.com"
+      ],
+      "webs": [],
+      "email_raw": "David@accradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Scott Gunter\nNRPP ID: 113686-RMP\nExpiration: 12/31/27",
+      "company": "Certified Radon Services",
+      "company_web": "https://www.certified-radon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 525-0192",
+          "tel": "17755250192"
+        }
+      ],
+      "emails": [
+        "cert.radon@gmail.com"
+      ],
+      "webs": [],
+      "email_raw": "cert.radon@gmail.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Cameron J Dopke\nNRPP ID: RT-112263\nExpiration: 9/30/27",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://www.tahoeradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Chris Thiessen\nNRPP ID: 116011-RMP\nExpiration: 6/30/28",
+      "company": "All Seen Inspections LLC",
+      "company_web": "https://allseeninspections.com/",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775)-750-8769",
+          "tel": "17757508769"
+        }
+      ],
+      "emails": [
+        "allseeninspection@gmail.com"
+      ],
+      "webs": [],
+      "email_raw": "allseeninspection@gmail.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Brandon Ford\nNRPP ID: RT-108285\nExpiration: 4/30/28",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://www.tahoeradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Sebastion Tumbale\nNRPP ID- #115667- RMFT\nExpiration: 1/31/2028",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://tahoeradon.com/",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Adam Sproull\nNRPP ID: #114978\nExpiration: 2/28/27",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://www.tahoeradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Tony Midmore\nNRPP ID 114256-RMP\nExpiration: 3/31/28",
+      "company": "Eagle Rock Inspections",
+      "company_web": "https://www.eaglerockinspections.com/reno-nv/",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 323-1117",
+          "tel": "17753231117"
+        }
+      ],
+      "emails": [
+        "contact@EagleRockInspections.com"
+      ],
+      "webs": [],
+      "email_raw": "contact@EagleRockInspections.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Kim Radzik\nNRPP ID: 112364-RMP\nExpiration: 10/31/27",
+      "company": "High Desert Radon",
+      "company_web": "https://www.highdesertradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 335-7632",
+          "tel": "17753357632"
+        }
+      ],
+      "emails": [
+        "kim@highdesertradon.com"
+      ],
+      "webs": [],
+      "email_raw": "kim@highdesertradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Collin Sturge\n114196-RMP\nExpiration: 4/30/28",
+      "company": "Nevada Radon Testing, LLC",
+      "company_web": "https://nevadaradontesting.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 722-4884",
+          "tel": "17757224884"
+        }
+      ],
+      "emails": [
+        "nvradon@icloud.com"
+      ],
+      "webs": [],
+      "email_raw": "nvradon@icloud.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Cameron Gillies\nNRPP ID: RT-110241\nExpiration: 7/31/27",
+      "company": "Quality Home Inspections",
+      "company_web": "https://www.elkohomeinspector.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 934-6338",
+          "tel": "17759346338"
+        }
+      ],
+      "emails": [
+        "qualityinspect.appraise@gmail.com"
+      ],
+      "webs": [],
+      "email_raw": "qualityinspect.appraise@gmail.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Amanda Atkinson\nNRPP # 114057 RMP\nExpiration: 4/30/28",
+      "company": "Silver State Radon",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 870-8823",
+          "tel": "17758708823"
+        }
+      ],
+      "emails": [
+        "Silverstateradon@gmail.com"
+      ],
+      "webs": [],
+      "email_raw": "Silverstateradon@gmail.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Edward (Ned) Riley\nNRPP ID RT: 106364\nExpiration: 10/31/26",
+      "company": "Tahoe Mold & Water",
+      "company_web": "https://www.tahoemoldandwater.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "Office: (530) 583-6653",
+          "tel": "15305836653"
+        },
+        {
+          "display": "Fax: (530) 583-9800",
+          "tel": "15305839800"
+        }
+      ],
+      "emails": [
+        "info@tahoemoldandwater.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoemoldandwater.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Ty Kirkpatrick\nNEHA NRPP ID: RT-104857\nExpiration: 8/31/27",
+      "company": "Tek Inspections, LLC",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "Office: (775) 746-4990",
+          "tel": "17757464990"
+        },
+        {
+          "display": "Fax: (775) 746-4991",
+          "tel": "17757464991"
+        }
+      ],
+      "emails": [
+        "ty@tekinspections.com"
+      ],
+      "webs": [],
+      "email_raw": "ty@tekinspections.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Taylor Pearce\nNRSB Certification number: 25MS042\nExpiration: 4/30/2027",
+      "company": "Wise Consulting & Training, Inc.",
+      "company_web": "https://www.WiseCandT.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "Office: (775) 813-0386",
+          "tel": "17758130386"
+        }
+      ],
+      "emails": [],
+      "webs": [
+        "https://wisecandt.com/"
+      ],
+      "email_raw": "Wise Consulting & Training, Inc Environmental Training"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Jesse Fuller\nNRPP ID: 105465RMS\nExpiration: 4/30/2028",
+      "company": "#1 Radon Inc.",
+      "company_web": "https://www.numberoneradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(725) 303-7966",
+          "tel": "17253037966"
+        }
+      ],
+      "emails": [
+        "sales@numberoneradon.com"
+      ],
+      "webs": [],
+      "email_raw": "sales@numberoneradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Nate Seward\nNRPP ID 108180-RMP\nExpiration: 9/30/2027",
+      "company": "Premier Environmental Consulting",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775)298-2679",
+          "tel": "17752982679"
+        }
+      ],
+      "emails": [
+        "keli@pectahoe.com"
+      ],
+      "webs": [],
+      "email_raw": "keli@pectahoe.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Brock Stearns\nNRPP ID: 15223-RMP\nExpiration: 6/30/27",
+      "company": "Arnold Inspection Services Inc.",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 544-0999",
+          "tel": "17755440999"
+        }
+      ],
+      "emails": [
+        "arnold.inspections@yahoo.com"
+      ],
+      "webs": [],
+      "email_raw": "arnold.inspections@yahoo.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Robert Parmenter\nNRPP Certification #116246-RMP\nExpiration: 8/31/28",
+      "company": "Home Inspection Associates LLC",
+      "company_web": "https://www.nvinspectors.com/",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(775) 842-5916",
+          "tel": "17758425916"
+        }
+      ],
+      "emails": [
+        "bobnkathy@hotmail.com"
+      ],
+      "webs": [],
+      "email_raw": "bobnkathy@hotmail.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Michael Stanford\nNRSB ID: 23MS037\nExpiration: 7/30/2027",
+      "company": "WDHI Inspections",
+      "company_web": "https://wdhiusa.com",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "Office: (702) 830-4080",
+          "tel": "17028304080"
+        },
+        {
+          "display": "Inspector: (435) 843-0466",
+          "tel": "14358430466"
+        }
+      ],
+      "emails": [
+        "office@WDHIUSA.com",
+        "mike@watchdogshi.com"
+      ],
+      "webs": [],
+      "email_raw": "office@WDHIUSA.com\nmike@watchdogshi.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Cameron J Dopke\nNRPP ID: RT-112263\nExpiration: 9/30/27",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://tahoeradon.com/",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Brandon Ford\nNRPP ID: RT-108285\nExpiration: 4/30/28",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://tahoeradon.com/",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Jesse Fuller\nNRPP ID: 105465RMS\nExpiration: 4/30/2028",
+      "company": "#1 Radon Inc.",
+      "company_web": "https://www.numberoneradon.com",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(725) 303-7966",
+          "tel": "17253037966"
+        }
+      ],
+      "emails": [
+        "sales@numberoneradon.com"
+      ],
+      "webs": [],
+      "email_raw": "sales@numberoneradon.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Teresa Duranso\nNRSB ID: 23MS044\nExpiration: 08/30/2027",
+      "company": "Castle Home Inspections",
+      "company_web": "https://www.CastleHomeInspectionsLV.com",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(702) 771-6555",
+          "tel": "17027716555"
+        }
+      ],
+      "emails": [
+        "office@castlehomeinspectionslv.com"
+      ],
+      "webs": [],
+      "email_raw": "office@castlehomeinspectionslv.com"
+    },
+    {
+      "kind": "measurement",
+      "credentials": "Shawn Davis\nNRSB1217\nExpiration: 11/30/2027",
+      "company": "HouseMaster Home Inspections",
+      "company_web": null,
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(702) 780-6287",
+          "tel": "17027806287"
+        }
+      ],
+      "emails": [
+        "shawn.davis@housemaster.com"
+      ],
+      "webs": [
+        "https://www.housemaster.com/summerlin"
+      ],
+      "email_raw": "HouseMaster.com/summerlin\nshawn.davis@housemaster.com"
+    }
+  ],
+  "mitigation": [
+    {
+      "kind": "mitigation",
+      "credentials": "Cameron J Dopke (owner)\n\nNRPP ID: RMT-112263\nExpiration: 9/30/27\nNV Contractors License #0079352",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://www.tahoeradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Brandon Ford\n\nNRPP ID: RMT-108882\nExpiration: 4/30/28\nNV Contractors License #0079352\nExpiration: 9/30/27",
+      "company": "Environmental Inspections & Construction",
+      "company_web": "https://www.tahoeradon.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(530) 544-1862",
+          "tel": "15305441862"
+        }
+      ],
+      "emails": [
+        "info@tahoeradon.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoeradon.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Edward (Ned) Riley\n\nNRPP ID: RMT-106415\nExpiration: 10/31/26\nNV Contractors License #0081464\nExpiration 10/31/26",
+      "company": "Tahoe Mold & Water Remediation & Restoration",
+      "company_web": "https://www.tahoemoldandwater.com",
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "Office: (530) 583-6653",
+          "tel": "15305836653"
+        },
+        {
+          "display": "Fax: (530) 583-9800",
+          "tel": "15305839800"
+        }
+      ],
+      "emails": [
+        "info@tahoemoldandwater.com"
+      ],
+      "webs": [],
+      "email_raw": "info@tahoemoldandwater.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Norman A. Denny\n\nNRPP ID: RMT-106142\nExpiration: 8/31/27\nNV Contractors License #0072914\nExpiration: 8/31/27",
+      "company": "Pinnacle Construction Consultants, Inc.",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "Office: (775) 691-7101",
+          "tel": "17756917101"
+        },
+        {
+          "display": "Fax: (775) 783-9629",
+          "tel": "17757839629"
+        }
+      ],
+      "emails": [
+        "norm@pinnconsult.com"
+      ],
+      "webs": [],
+      "email_raw": "norm@pinnconsult.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Jesse Fuller\nNRPP ID: 105465RMT\nExpiration: 4/30/2028\nNevada Contractors\nLicense #0091579\nExpiration: 1/31/2028",
+      "company": "#1 Radon Inc.",
+      "company_web": null,
+      "area": "Northern Nevada",
+      "phones": [
+        {
+          "display": "(725) 303-7966",
+          "tel": "17253037966"
+        },
+        {
+          "display": "(720) 435-5774",
+          "tel": "17204355774"
+        }
+      ],
+      "emails": [
+        "sales@numberoneradon.com"
+      ],
+      "webs": [
+        "https://www.numberoneradon.com/"
+      ],
+      "email_raw": "numberoneradon.com\nEmail: sales@numberoneradon.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Jesse Fuller\nNRPP ID: 105465RMT\nExpiration: 4/30/2028\nNevada Contractors\nLicense #0091579\nExpiration: 1/31/2028",
+      "company": "#1 Radon Inc.",
+      "company_web": "https://www.numberoneradon.com/",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "(725) 303-7966",
+          "tel": "17253037966"
+        },
+        {
+          "display": "(720) 435-5774",
+          "tel": "17204355774"
+        }
+      ],
+      "emails": [
+        "sales@numberoneradon.com"
+      ],
+      "webs": [],
+      "email_raw": "numberoneradon.com\nEmail: sales@numberoneradon.com"
+    },
+    {
+      "kind": "mitigation",
+      "credentials": "Norman A. Denny\nNRPP ID: RMT-106142\nExpiration: 8/31/27\nNV Contractors License #0072914\nExpiration: 8/31/27",
+      "company": "Pinnacle Construction Consultants, Inc.",
+      "company_web": "https://pinnconsult.com/",
+      "area": "Southern Nevada",
+      "phones": [
+        {
+          "display": "Office: (775) 691-7101",
+          "tel": "17756917101"
+        },
+        {
+          "display": "Fax: (775) 783-9629",
+          "tel": "17757839629"
+        }
+      ],
+      "emails": [
+        "norm@pinnconsult.com"
+      ],
+      "webs": [],
+      "email_raw": "norm@pinnconsult.com"
+    }
+  ]
+}
