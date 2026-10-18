@@ -680,3 +680,24 @@ a.kit-link {
     font-size: 0.95rem;
   }
 }
+
+/* Sunday 2026-10-18 fold pack (Designer): Amazon kit CTA in the how-to fold */
+nav a { min-height: 2.75rem; } /* 44px taps (was 2.5rem / 40px) */
+@media (max-width: 639px) {
+  .site-header nav[aria-label="Primary"] { max-height: 5.75rem; } /* show 2 full rows of 44px links */
+}
+.fold-cta .pick-micro {
+  margin: 0 0 0.6rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.fold-cta .kit-link {
+  flex-wrap: wrap;
+  column-gap: 0.35em;
+}
+.fold-cta .kit-link .paid { color: #d7e5db; font-style: normal; }
+.fold-cta .pick-note + .pick-note { margin-top: 0.2rem; }
+.fold-cta .pick-note a {
+  display: inline-block;
+  padding-block: 0.6rem; /* ~44px tap height without stretching the line */
+}
