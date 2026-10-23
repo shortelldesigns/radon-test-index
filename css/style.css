@@ -701,3 +701,7 @@ nav a { min-height: 2.75rem; } /* 44px taps (was 2.5rem / 40px) */
   display: inline-block;
   padding-block: 0.6rem; /* ~44px tap height without stretching the line */
 }
+
+/* Designer pack 2026-10-23: 44px taps for brand link + fold pick-note link */
+.site-header .brand { min-height: 2.75rem; }
+.fold-cta .pick-note a { padding-block: 0.75rem; }
