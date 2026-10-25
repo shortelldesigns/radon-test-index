@@ -705,3 +705,15 @@ nav a { min-height: 2.75rem; } /* 44px taps (was 2.5rem / 40px) */
 /* Designer pack 2026-10-23: 44px taps for brand link + fold pick-note link */
 .site-header .brand { min-height: 2.75rem; }
 .fold-cta .pick-note a { padding-block: 0.75rem; }
+
+/* Designer pack 2026-10-25: state-page fold jump to the provider search (no box, just the button) */
+.fold-cta.state-jump {
+  margin: 0 0 1.1rem;
+  padding: 0;
+  background: none;
+  border: 0;
+}
+@media (min-width: 640px) {
+  .fold-cta.state-jump a.btn { width: auto; display: inline-flex; padding-inline: 1.25rem; }
+}
+#providers { scroll-margin-top: 1rem; }
