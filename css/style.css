@@ -717,3 +717,14 @@ nav a { min-height: 2.75rem; } /* 44px taps (was 2.5rem / 40px) */
   .fold-cta.state-jump a.btn { width: auto; display: inline-flex; padding-inline: 1.25rem; }
 }
 #providers { scroll-margin-top: 1rem; }
+
+/* Designer iOS-664 fold pack 2026-11-10 */
+@media (max-width: 430px) {
+  .header-inner { padding: 0.55rem 0 0.5rem; gap: 0.45rem 1rem; }
+  h1 { font-size: 1.45rem; margin-bottom: 0.4rem; }
+  .fold-cta { padding: 0.7rem 0.8rem 0.75rem; margin-bottom: 1rem; }
+  .fold-cta.state-jump { margin-bottom: 0.7rem; padding: 0; }
+  .fold-cta .kicker { margin-bottom: 0.3rem; }
+  .fold-cta .pick-micro { margin-bottom: 0.35rem; }
+  .fold-cta .pick-note { margin: 0.4rem 0 0.35rem; }
+}
